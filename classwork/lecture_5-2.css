@@ -1,0 +1,16 @@
+#one {
+  border: 1px solid black;
+  position: relative;
+}
+#two {
+  border: 1px solid red;
+  position: absolute;
+}
+#three {
+  border: 1px solid green;
+  position: relative;
+}
+#four {
+  border: 1px solid blue;
+  position: absolute;
+}

@@ -1,0 +1,27 @@
+#null {
+  z-index: 3;
+  position: relative;
+  border: 1px solid black;
+  background: green;
+  margin-bottom: -25px;
+}
+#first {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid red;
+  height: 30px;
+  width: 45px;
+  
+}
+#second {
+  display: inline-block;
+  height:60px;
+  border: 1px solid blue;
+  margin-bottom: -20px;
+}
+#third {
+  background: orange;
+  border: 1px solid black;
+ /* margin-top: -30px;*/
+}
