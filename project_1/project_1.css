@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  background: #050505;
+  color: white;
+  font-family: "PT Sans", sans-serif;
+}
+#header {
+  text-align: center;
+  background: radial-gradient(ellipse at top center,
+   #3F2B28 5%, #421631 20%, #421631 25%, #1E0523 40%, #050505 60%);
+}
+
+img {
+  margin-top: 64px;
+  margin-bottom: 46px;
+}
+h2 {
+  margin-bottom: 28px;
+  font-size: 32px;
+}
+p {
+  font-size: 16px;
+}
+.button {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 42px;
+  padding-top: 20px;
+  width: 260px;
+  height: 50px;
+  background: #26a8db;
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 4px;
+  border-top: 2px solid #52b9e2;
+  border-bottom: 2px solid #1282ae;
+  box-shadow: 0px 3px 0px 0px rgba(18, 130, 174, 0.392), inset 0px 2px 0px 0px rgba(255, 255, 255, 0.118);
+}
+#main {
+	width: 980px;
+	margin: auto;
+}	
+section {
+  height: 250px;
+  width: 100%;
+  margin-top: 50px;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+.blue {
+	background-image: url(images/gradient-1.png);
+	
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+.clear {
+	clear: both;
+}
+#footer {
+	text-align: center;
+	background: radial-gradient(ellipse at bottom center,#3F2B28 5%, #421631 20%, #421631 25%, #1E0523 40%, #050505 60%);
+  padding-bottom: 30px;
+}
